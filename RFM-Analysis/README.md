@@ -1,5 +1,5 @@
-![Dashboard](Sales Segmentation - RFM Analysis.png)
-
+![RFM-Analysis](Sales Segmentation - RFM Analysis.png)
+https://github.com/josev-melendez/data-analytics-portfolio/blob/main/RFM-Analysis/Sales%20Segmentation%20-%20RFM%20Analysis.png
 📊 Customer Segmentation (RFM Analysis)
 
 📌 Business Context
