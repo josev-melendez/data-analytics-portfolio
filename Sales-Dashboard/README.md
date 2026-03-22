@@ -1,3 +1,4 @@
+![Dashboard](dashboard.png)
 📊 Sales Performance & Customer Concentration Analysis
 
 📌 Business Context
