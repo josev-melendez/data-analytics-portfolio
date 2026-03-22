@@ -1,4 +1,4 @@
-![Dashboard](dashboard.png)
+![Dashboard](rfm_dashboard.png)
 
 📊 Customer Segmentation (RFM Analysis)
 
