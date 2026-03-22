@@ -1,3 +1,4 @@
+![Dashboard](dashboard.png)
 📊 Customer Segmentation (RFM Analysis)
 
 📌 Business Context
